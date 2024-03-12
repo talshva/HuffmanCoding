@@ -15,7 +15,9 @@ Ensure you have Python 3.x installed on your system. You can download it from `h
 
 ### Installation
 Clone the repository to your local machine:
+
 `git clone https://github.com/talshva/HuffmanCoding.git`
+
 `cd HuffmanCodingPy`
 
 ### Running the Program
