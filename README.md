@@ -15,9 +15,8 @@ Ensure you have Python 3.x installed on your system. You can download it from ht
 
 ### Installation
 Clone the repository to your local machine:
-```bash
-git clone https://github.com/talshva/HuffmanCoding.git
-cd HuffmanCodingPy
+'git clone https://github.com/talshva/HuffmanCoding.git'
+'cd HuffmanCodingPy'
 
 ### Running the Program
 To compress a text file, run:
