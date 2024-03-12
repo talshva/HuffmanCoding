@@ -1,4 +1,4 @@
-# HuffmanCodingPy
+# HuffmanCoding
 
 HuffmanCodingPy is a Python-based project that demonstrates the use and implementation of the Huffman coding algorithm for file compression and decompression. Developed as part of a Computer Engineering degree's "Algorithm Design" course, this project showcases the efficiency of Huffman coding in reducing file size without loss of data.
 
