@@ -11,19 +11,21 @@ HuffmanCoding is a Python-based project that demonstrates the use and implementa
 These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
-Ensure you have Python 3.x installed on your system. You can download it from https://www.python.org/downloads/.
+Ensure you have Python 3.x installed on your system. You can download it from `https://www.python.org/downloads/.`
 
 ### Installation
 Clone the repository to your local machine:
-'git clone https://github.com/talshva/HuffmanCoding.git'
-'cd HuffmanCodingPy'
+`git clone https://github.com/talshva/HuffmanCoding.git`
+`cd HuffmanCodingPy`
 
 ### Running the Program
 To compress a text file, run:
-'python compression.py <path_to_text_file>'
+
+`python compression.py <path_to_text_file>`
 
 To decompress a previously compressed file, run:
-'python decompression.py <path_to_compressed_file>'
+
+`python decompression.py <path_to_compressed_file>`
 
 ### Compression Efficiency
 The HuffmanCodingPy project aims to significantly reduce file sizes through compression. Below is an example for compressing a large text file, showing the effectiveness of the compression algorithm by comparing file sizes before and after compression:
